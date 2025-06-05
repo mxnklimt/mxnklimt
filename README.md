@@ -1,3 +1,2 @@
 ## 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mxnklimt)](https://git.io/streak-stats)
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mxnklimt" height="200px" />
