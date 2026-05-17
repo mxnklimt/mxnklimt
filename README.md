@@ -73,12 +73,12 @@ I like turning algorithms into things that feel precise, fast, and useful. Recen
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mxnklimt/GOELO">GOELO</a></h3>
-      <p>Algorithmic experiments around ranking, scoring, and clean C++ implementation.</p>
+      <h3><a href="https://github.com/mxnklimt/AI_slaythespire">AI_slaythespire</a></h3>
+      <p>AI Agent strategy layer for MCP-driven Slay the Spire 2 decision making.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/mxnklimt/GOELO?style=flat-square&color=7dd3fc&labelColor=111827" alt="Top language" />
-        <img src="https://img.shields.io/github/last-commit/mxnklimt/GOELO?style=flat-square&color=22c55e&labelColor=111827" alt="Last commit" />
-        <img src="https://img.shields.io/github/stars/mxnklimt/GOELO?style=flat-square&color=f97316&labelColor=111827" alt="Stars" />
+        <img src="https://img.shields.io/github/languages/top/mxnklimt/AI_slaythespire?style=flat-square&color=7dd3fc&labelColor=111827" alt="Top language" />
+        <img src="https://img.shields.io/github/last-commit/mxnklimt/AI_slaythespire?style=flat-square&color=22c55e&labelColor=111827" alt="Last commit" />
+        <img src="https://img.shields.io/github/stars/mxnklimt/AI_slaythespire?style=flat-square&color=f97316&labelColor=111827" alt="Stars" />
       </p>
     </td>
   </tr>
@@ -107,4 +107,3 @@ I like turning algorithms into things that feel precise, fast, and useful. Recen
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mxnklimt&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Radar" alt="Contribution graph" />
 </p>
-
