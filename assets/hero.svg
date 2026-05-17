@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Klimt Mxn GitHub Profile Banner</title>
+  <desc id="desc">A neon terminal-style banner for the mxnklimt GitHub profile.</desc>
+  <defs>
+    <radialGradient id="glowA" cx="18%" cy="15%" r="60%">
+      <stop offset="0%" stop-color="#36bcf7" stop-opacity="0.42"/>
+      <stop offset="45%" stop-color="#36bcf7" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="82%" cy="26%" r="58%">
+      <stop offset="0%" stop-color="#f97316" stop-opacity="0.34"/>
+      <stop offset="40%" stop-color="#f97316" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="neon" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#7dd3fc"/>
+      <stop offset="45%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#1f6feb" stroke-width="1" opacity="0.22"/>
+    </pattern>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .grid { animation: grid-drift 18s linear infinite; }
+      .scan { animation: scan 4s ease-in-out infinite; }
+      .pulse { animation: pulse 2.8s ease-in-out infinite; }
+      .float-a { animation: floatA 7s ease-in-out infinite; }
+      .float-b { animation: floatB 8s ease-in-out infinite; }
+      .dash { stroke-dasharray: 18 16; animation: dash 16s linear infinite; }
+      @keyframes grid-drift { from { transform: translateY(0); } to { transform: translateY(48px); } }
+      @keyframes scan { 0%, 100% { opacity: .12; transform: translateY(-140px); } 50% { opacity: .45; transform: translateY(140px); } }
+      @keyframes pulse { 0%, 100% { opacity: .42; } 50% { opacity: .95; } }
+      @keyframes floatA { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(22px, -16px); } }
+      @keyframes floatB { 0%, 100% { transform: translate(0, 0); } 50% { transform: translate(-24px, 14px); } }
+      @keyframes dash { to { stroke-dashoffset: -520; } }
+      text { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="#0d1117"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowA)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glowB)"/>
+  <rect class="grid" x="-48" y="-48" width="1296" height="456" fill="url(#grid)" opacity="0.9"/>
+  <rect class="scan" x="0" y="160" width="1200" height="46" fill="url(#neon)" opacity="0.2"/>
+
+  <g opacity="0.92">
+    <path class="dash" d="M78 268 C232 184 324 318 474 222 S760 158 906 224 1076 244 1130 102" fill="none" stroke="url(#neon)" stroke-width="3" filter="url(#softGlow)"/>
+    <path d="M70 284 H1130" stroke="#7dd3fc" stroke-width="1" opacity="0.18"/>
+  </g>
+
+  <g class="float-a" filter="url(#softGlow)">
+    <circle cx="106" cy="90" r="6" fill="#7dd3fc"/>
+    <circle cx="180" cy="124" r="3" fill="#22c55e"/>
+    <circle cx="1034" cy="78" r="5" fill="#f97316"/>
+  </g>
+  <g class="float-b" filter="url(#softGlow)">
+    <circle cx="980" cy="276" r="4" fill="#7dd3fc"/>
+    <circle cx="1124" cy="236" r="3" fill="#22c55e"/>
+    <circle cx="278" cy="286" r="4" fill="#f97316"/>
+  </g>
+
+  <g transform="translate(84 82)">
+    <rect x="0" y="0" width="390" height="204" rx="16" fill="#050816" opacity="0.78" stroke="#30363d"/>
+    <circle cx="28" cy="28" r="6" fill="#ef4444"/>
+    <circle cx="50" cy="28" r="6" fill="#f59e0b"/>
+    <circle cx="72" cy="28" r="6" fill="#22c55e"/>
+    <text x="28" y="74" fill="#7dd3fc" font-size="18">$ whoami</text>
+    <text x="28" y="108" fill="#e5e7eb" font-size="20">mxnklimt</text>
+    <text x="28" y="144" fill="#22c55e" font-size="18">$ focus --now</text>
+    <text x="28" y="176" fill="#c9d1d9" font-size="17">Algorithms  LLMs  RecSys  Agents</text>
+  </g>
+
+  <g transform="translate(526 94)">
+    <text x="0" y="0" fill="#c9d1d9" font-size="18" letter-spacing="3">GITHUB PROFILE</text>
+    <text x="0" y="72" fill="#f8fafc" font-size="72" font-weight="900" filter="url(#softGlow)">KLIMT MXN</text>
+    <text x="2" y="118" fill="url(#neon)" font-size="26" font-weight="700">Algorithms, LLMs, recommendation.</text>
+    <g transform="translate(0 152)">
+      <rect width="172" height="36" rx="18" fill="#111827" stroke="#7dd3fc" opacity="0.92"/>
+      <text x="22" y="24" fill="#7dd3fc" font-size="15" font-weight="700">ALGORITHMS</text>
+      <rect x="190" width="122" height="36" rx="18" fill="#111827" stroke="#22c55e" opacity="0.92"/>
+      <text x="218" y="24" fill="#22c55e" font-size="15" font-weight="700">LLM</text>
+      <rect x="330" width="160" height="36" rx="18" fill="#111827" stroke="#f97316" opacity="0.92"/>
+      <text x="358" y="24" fill="#f97316" font-size="15" font-weight="700">AI AGENT</text>
+    </g>
+  </g>
+
+  <g class="pulse" opacity="0.72">
+    <path d="M1000 132 h70 v70 h-70 z" fill="none" stroke="#7dd3fc" stroke-width="2"/>
+    <path d="M1018 150 h34 v34 h-34 z" fill="none" stroke="#f97316" stroke-width="2"/>
+    <path d="M985 167 h105" stroke="#22c55e" stroke-width="2"/>
+    <path d="M1035 117 v105" stroke="#22c55e" stroke-width="2"/>
+  </g>
+</svg>
