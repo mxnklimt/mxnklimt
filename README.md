@@ -108,31 +108,3 @@ I like turning algorithms into things that feel precise, fast, and useful. Recen
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mxnklimt&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Radar" alt="Contribution graph" />
 </p>
 
-## Current Quests
-
-```mermaid
-mindmap
-  root((mxnklimt))
-    Algorithms
-      LLMs
-      Recommendation Algorithms
-      Ranking
-    AI Agent
-      Tool Use
-      Workflow Automation
-      Evaluation
-    C++
-      Performance
-      Tooling
-      Graphics
-    EDA
-      Algorithms
-      Competition
-      Optimization
-```
-
-<p align="center">
-  <a href="https://github.com/mxnklimt">
-    <img src="https://img.shields.io/badge/GitHub-mxnklimt-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
-</p>
