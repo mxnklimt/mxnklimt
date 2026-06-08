@@ -30,8 +30,6 @@ Focus      : Recommendation Algorithms, LLMs, AI Agent
 Also       : C++, EDA, systems
 ```
 
-I like turning algorithms into things that feel precise, fast, and useful. Recently orbiting around LLM systems, recommendation algorithms, AI Agent workflows, C++ projects, EDA competitions, and graphics/tooling.
-
 ## Tech Arsenal
 
 <p align="center">
