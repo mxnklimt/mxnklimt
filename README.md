@@ -26,9 +26,8 @@
 mxnklimt@github
 ------------------------------
 Name       : Klimt Mxn / Wang Kaiyu
-Focus      : Algorithms, LLMs, recommendation algorithms
-Also       : AI Agent, C++, EDA, systems
-Mode       : Build fast. Think deep. Ship clean.
+Focus      : Recommendation Algorithms, LLMs, AI Agent
+Also       : C++, EDA, systems
 ```
 
 I like turning algorithms into things that feel precise, fast, and useful. Recently orbiting around LLM systems, recommendation algorithms, AI Agent workflows, C++ projects, EDA competitions, and graphics/tooling.
