@@ -80,7 +80,7 @@
   <g transform="translate(526 94)">
     <text x="0" y="0" fill="#c9d1d9" font-size="18" letter-spacing="3">GITHUB PROFILE</text>
     <text x="0" y="72" fill="#f8fafc" font-size="72" font-weight="900" filter="url(#softGlow)">KLIMT MXN</text>
-    <text x="2" y="118" fill="url(#neon)" font-size="26" font-weight="700">Algorithms, LLMs, recommendation.</text>
+    <text x="2" y="118" fill="url(#neon)" font-size="26" font-weight="700">AI Agent, LLMs, Recommendation.</text>
     <g transform="translate(0 152)">
       <rect width="172" height="36" rx="18" fill="#111827" stroke="#7dd3fc" opacity="0.92"/>
       <text x="22" y="24" fill="#7dd3fc" font-size="15" font-weight="700">ALGORITHMS</text>
