@@ -26,7 +26,7 @@
 mxnklimt@github
 ------------------------------
 Name       : Klimt Mxn / Wang Kaiyu
-Focus      : Recommendation Algorithms, LLMs, AI Agent
+Focus      : Recommendation Algorithms, LLMs, AI Agent,Quant Dev
 Recently   : Game Recommendation Algorithm Engineer
 Also       : C++, EDA, systems
 ```
