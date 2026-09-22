@@ -82,12 +82,12 @@
     <text x="0" y="72" fill="#f8fafc" font-size="72" font-weight="900" filter="url(#softGlow)">KLIMT MXN</text>
     <text x="2" y="118" fill="url(#neon)" font-size="26" font-weight="700">AI Agent, LLMs, Recommendation.</text>
     <g transform="translate(0 152)">
-      <rect width="172" height="36" rx="18" fill="#111827" stroke="#7dd3fc" opacity="0.92"/>
-      <text x="86" y="24" text-anchor="middle" fill="#7dd3fc" font-size="15" font-weight="700">ALGORITHMS</text>
-      <rect x="190" width="122" height="36" rx="18" fill="#111827" stroke="#22c55e" opacity="0.92"/>
-      <text x="251" y="24" text-anchor="middle" fill="#22c55e" font-size="15" font-weight="700">LLM</text>
-      <rect x="330" width="160" height="36" rx="18" fill="#111827" stroke="#f97316" opacity="0.92"/>
-      <text x="410" y="24" text-anchor="middle" fill="#f97316" font-size="15" font-weight="700">AI AGENT</text>
+      <rect width="188" height="44" rx="22" fill="#111827" stroke="#7dd3fc" opacity="0.92"/>
+      <text x="94" y="29" text-anchor="middle" fill="#7dd3fc" font-size="18" font-weight="700">ALGORITHMS</text>
+      <rect x="208" width="120" height="44" rx="22" fill="#111827" stroke="#22c55e" opacity="0.92"/>
+      <text x="268" y="29" text-anchor="middle" fill="#22c55e" font-size="18" font-weight="700">LLM</text>
+      <rect x="348" width="170" height="44" rx="22" fill="#111827" stroke="#f97316" opacity="0.92"/>
+      <text x="433" y="29" text-anchor="middle" fill="#f97316" font-size="18" font-weight="700">AI AGENT</text>
     </g>
   </g>
 

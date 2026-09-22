@@ -71,9 +71,9 @@ def decorations(total, months, theme: str) -> str:
     if total:
         parts.append(text(-14, -62, 18, fg, f"{total} contributions in the last year"))
 
-    # month labels: 13px, baseline aligned with the title block above the grid
+    # month labels: 13px, tight ~12px gap above the grid (was -34, felt too floaty)
     for col, name in months:
-        parts.append(text(GRID_X0 + col * STEP, -34, 13, muted, name))
+        parts.append(text(GRID_X0 + col * STEP, -14, 13, muted, name))
 
     # weekday labels: 12px, right-aligned with a 10px gutter, vertically centered
     # on their grid row (baseline = row center + half cap height)
