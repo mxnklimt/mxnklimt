@@ -69,7 +69,7 @@ def decorations(total, months, theme: str) -> str:
     parts = []
 
     if total:
-        parts.append(text(-14, -66, 15, fg, f"{total} contributions in the last year"))
+        parts.append(text(-14, -62, 18, fg, f"{total} contributions in the last year"))
 
     for col, name in months:
         parts.append(text(GRID_X0 + col * STEP, -36, 11, muted, name))

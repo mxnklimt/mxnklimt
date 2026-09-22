@@ -83,11 +83,11 @@
     <text x="2" y="118" fill="url(#neon)" font-size="26" font-weight="700">AI Agent, LLMs, Recommendation.</text>
     <g transform="translate(0 152)">
       <rect width="172" height="36" rx="18" fill="#111827" stroke="#7dd3fc" opacity="0.92"/>
-      <text x="22" y="24" fill="#7dd3fc" font-size="15" font-weight="700">ALGORITHMS</text>
+      <text x="86" y="24" text-anchor="middle" fill="#7dd3fc" font-size="15" font-weight="700">ALGORITHMS</text>
       <rect x="190" width="122" height="36" rx="18" fill="#111827" stroke="#22c55e" opacity="0.92"/>
-      <text x="218" y="24" fill="#22c55e" font-size="15" font-weight="700">LLM</text>
+      <text x="251" y="24" text-anchor="middle" fill="#22c55e" font-size="15" font-weight="700">LLM</text>
       <rect x="330" width="160" height="36" rx="18" fill="#111827" stroke="#f97316" opacity="0.92"/>
-      <text x="358" y="24" fill="#f97316" font-size="15" font-weight="700">AI AGENT</text>
+      <text x="410" y="24" text-anchor="middle" fill="#f97316" font-size="15" font-weight="700">AI AGENT</text>
     </g>
   </g>
 

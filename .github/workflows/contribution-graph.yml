@@ -31,6 +31,9 @@ jobs:
       - name: Decorate SVGs with native-style labels (total, months, weekdays, legend)
         run: python3 scripts/decorate_snake.py
 
+      - name: Fetch stat cards and strip their titles
+        run: python3 scripts/strip_card_title.py
+
       - name: Publish SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

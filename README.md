@@ -104,9 +104,9 @@ Also       : C++, EDA, systems
 ## 📡 Signal Board
 
 <p align="center">
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mxnklimt&theme=transparent" alt="GitHub stats" />
+  <img height="170" src="https://raw.githubusercontent.com/mxnklimt/mxnklimt/output/stats-card.svg" alt="GitHub stats" />
   &nbsp;&nbsp;
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxnklimt&theme=transparent" alt="Most commit language" />
+  <img height="170" src="https://raw.githubusercontent.com/mxnklimt/mxnklimt/output/langs-card.svg" alt="Top languages by commit" />
 </p>
 
 <p align="center">
