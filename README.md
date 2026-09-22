@@ -110,7 +110,11 @@ Also       : C++, EDA, systems
 </p>
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/36BCF7/mxnklimt" alt="GitHub contribution heatmap" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxnklimt/mxnklimt/output/contribution-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxnklimt/mxnklimt/output/contribution-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/mxnklimt/mxnklimt/output/contribution-snake.svg" alt="GitHub contribution graph with snake" />
+  </picture>
 </p>
 
 <p align="center">
