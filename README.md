@@ -62,12 +62,12 @@ Also       : C++, EDA, systems
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mxnklimt/GO_ELO_PLUS">GO_ELO_PLUS</a></h3>
-      <p>Go/ELO experiments with a systems-flavored engineering loop.</p>
+      <h3><a href="https://github.com/mxnklimt/GO_ELO_Android">GO_ELO_Android</a></h3>
+      <p>Offline Go/ELO rating tracker for Android — Kotlin + Jetpack Compose, local-first data with backup and restore.</p>
       <p>
-        <img src="https://img.shields.io/github/languages/top/mxnklimt/GO_ELO_PLUS?style=flat-square&color=7dd3fc&labelColor=111827" alt="Top language" />
-        <img src="https://img.shields.io/github/last-commit/mxnklimt/GO_ELO_PLUS?style=flat-square&color=22c55e&labelColor=111827" alt="Last commit" />
-        <img src="https://img.shields.io/github/stars/mxnklimt/GO_ELO_PLUS?style=flat-square&color=f97316&labelColor=111827" alt="Stars" />
+        <img src="https://img.shields.io/github/languages/top/mxnklimt/GO_ELO_Android?style=flat-square&color=7dd3fc&labelColor=111827" alt="Top language" />
+        <img src="https://img.shields.io/github/last-commit/mxnklimt/GO_ELO_Android?style=flat-square&color=22c55e&labelColor=111827" alt="Last commit" />
+        <img src="https://img.shields.io/github/stars/mxnklimt/GO_ELO_Android?style=flat-square&color=f97316&labelColor=111827" alt="Stars" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -77,6 +77,25 @@ Also       : C++, EDA, systems
         <img src="https://img.shields.io/github/languages/top/mxnklimt/AI_slaythespire?style=flat-square&color=7dd3fc&labelColor=111827" alt="Top language" />
         <img src="https://img.shields.io/github/last-commit/mxnklimt/AI_slaythespire?style=flat-square&color=22c55e&labelColor=111827" alt="Last commit" />
         <img src="https://img.shields.io/github/stars/mxnklimt/AI_slaythespire?style=flat-square&color=f97316&labelColor=111827" alt="Stars" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mxnklimt/Experiment_Report_Extractor">Experiment_Report_Extractor</a></h3>
+      <p>A Claude Code skill that turns experiment data into a single self-contained HTML report with inline ECharts, confirmed section by section.</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/mxnklimt/Experiment_Report_Extractor?style=flat-square&color=7dd3fc&labelColor=111827" alt="Top language" />
+        <img src="https://img.shields.io/github/last-commit/mxnklimt/Experiment_Report_Extractor?style=flat-square&color=22c55e&labelColor=111827" alt="Last commit" />
+        <img src="https://img.shields.io/github/stars/mxnklimt/Experiment_Report_Extractor?style=flat-square&color=f97316&labelColor=111827" alt="Stars" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Quant Trading System</h3>
+      <p>Private research-to-execution trading stack: market data pipeline, factor and strategy research, backtesting, risk control and live order routing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/visibility-private-6b7280?style=flat-square&labelColor=111827" alt="Private repository" />
+        <img src="https://img.shields.io/badge/code-closed_source-9ca3af?style=flat-square&labelColor=111827" alt="Closed source" />
       </p>
     </td>
   </tr>
