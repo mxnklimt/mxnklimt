@@ -104,22 +104,13 @@ Also       : C++, EDA, systems
 ## 📡 Signal Board
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mxnklimt&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=mxnklimt&hide_border=true&background=00000000&ring=36BCF7&fire=F97316&currStreakNum=36BCF7&currStreakLabel=36BCF7&sideNums=64748B&sideLabels=64748B&dates=64748B" alt="GitHub streak" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mxnklimt&theme=transparent" alt="GitHub stats" />
+  &nbsp;&nbsp;
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxnklimt&theme=transparent" alt="Most commit language" />
 </p>
 
 <p align="center">
-  <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mxnklimt&theme=transparent" alt="Repos per language" />
-  <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxnklimt&theme=transparent" alt="Most commit language" />
-  <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mxnklimt&theme=transparent&utcOffset=8" alt="Productive time (UTC+8)" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxnklimt/mxnklimt/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxnklimt/mxnklimt/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/mxnklimt/mxnklimt/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-  </picture>
+  <img width="100%" src="https://ghchart.rshah.org/36BCF7/mxnklimt" alt="GitHub contribution heatmap" />
 </p>
 
 <p align="center">
