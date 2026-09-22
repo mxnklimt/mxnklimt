@@ -71,21 +71,26 @@ def decorations(total, months, theme: str) -> str:
     if total:
         parts.append(text(-14, -62, 18, fg, f"{total} contributions in the last year"))
 
+    # month labels: 13px, baseline aligned with the title block above the grid
     for col, name in months:
-        parts.append(text(GRID_X0 + col * STEP, -36, 11, muted, name))
+        parts.append(text(GRID_X0 + col * STEP, -34, 13, muted, name))
 
+    # weekday labels: 12px, right-aligned with a 10px gutter, vertically centered
+    # on their grid row (baseline = row center + half cap height)
     for label, row in (("Mon", 1), ("Wed", 3), ("Fri", 5)):
-        y = GRID_Y0 + row * STEP + CELL - 2
-        parts.append(text(-8, y, 10, muted, label, anchor="end"))
+        y = GRID_Y0 + row * STEP + CELL // 2 + 4
+        parts.append(text(-10, y, 12, muted, label, anchor="end"))
 
-    ly = 132
-    x = GRID_RIGHT - 125
-    parts.append(text(x, ly + 10, 10, muted, "Less"))
-    x += 30
+    # legend: 11px text + 11px swatches, right edge flush with the grid
+    ly = 130
+    more_w, gap, sw, sw_step, less_w = 34, 6, 11, 14, 34
+    x = GRID_RIGHT - (more_w + gap + 5 * sw_step - (sw_step - sw) + gap + less_w)
+    parts.append(text(x, ly + sw - 1, 11, muted, "Less"))
+    x += less_w + gap
     for i in range(5):
-        parts.append(f'<rect x="{x}" y="{ly}" width="10" height="10" rx="2" fill="var(--c{i})"/>')
-        x += 13
-    parts.append(text(x + 4, ly + 10, 10, muted, "More"))
+        parts.append(f'<rect x="{x}" y="{ly}" width="{sw}" height="{sw}" rx="2" fill="var(--c{i})"/>')
+        x += sw_step
+    parts.append(text(x + gap, ly + sw - 1, 11, muted, "More"))
 
     return "\n".join(parts)
 
