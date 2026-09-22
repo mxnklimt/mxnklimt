@@ -101,26 +101,30 @@ Also       : C++, EDA, systems
   </tr>
 </table>
 
-## Signal Board
+## 📡 Signal Board
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mxnklimt&theme=github_dark" alt="Contribution profile details" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mxnklimt&show_icons=true&hide_border=true&bg_color=00000000&title_color=36BCF7&icon_color=F97316&text_color=64748B&ring_color=36BCF7&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=mxnklimt&hide_border=true&background=00000000&ring=36BCF7&fire=F97316&currStreakNum=36BCF7&currStreakLabel=36BCF7&sideNums=64748B&sideLabels=64748B&dates=64748B" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mxnklimt&theme=github_dark" alt="Repos per language" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mxnklimt&theme=github_dark" alt="Most commit language" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxnklimt&layout=donut&hide_border=true&bg_color=00000000&title_color=36BCF7&text_color=64748B&langs_count=6" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mxnklimt&theme=transparent&utcOffset=8" alt="Productive time (UTC+8)" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mxnklimt&theme=github_dark" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mxnklimt&theme=github_dark&utcOffset=8" alt="Productive time" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mxnklimt/mxnklimt/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mxnklimt/mxnklimt/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/mxnklimt/mxnklimt/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mxnklimt&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=F97316&currStreakLabel=36BCF7" alt="GitHub streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mxnklimt&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=10&margin-h=10&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mxnklimt&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Radar" alt="Contribution graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,50:22c55e,100:f97316&height=110&section=footer" alt="Footer wave" />
 </p>
